@@ -10,6 +10,7 @@
 
 @LinkScapeOfficial
 donate via kofi, paypal, whatever
+
 we are sinking in debt
 
 <!---
