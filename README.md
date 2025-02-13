@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him (duh lgbtq is just not cool anymore these days)
 - ⚡ Fun fact: i just sudo rm -rf /* 'd my mac a few days ago
 
-@LinkScapeOfficial
+[@LinkScapeOfficial](https://github.com/LinkScapeOfficial)
 donate via kofi, paypal, whatever
 
 we are sinking in debt
