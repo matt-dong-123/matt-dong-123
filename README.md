@@ -11,3 +11,7 @@ Feel free to just look around
 donate via kofi, paypal, whatever
 
 we are sinking in debt
+
+
+CHECK MY STATS
+[![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=matt-dong-123&theme=apprentice&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
