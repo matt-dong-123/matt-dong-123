@@ -17,4 +17,4 @@ CHECK MY STATS
 
 oh they kinda suck
 
-[![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=matt-dong-123&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's Github Stats](https://github-readme-stats.vercel.app/api?username=matt-dong-123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
